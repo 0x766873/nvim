@@ -1,7 +1,7 @@
-vim.cmd.colorscheme("tokyonight")
+vim.cmd.colorscheme("nord")
 
-vim.opt.nu = true                 -- set line numbers -- set line numbers
- 
+vim.opt.nu = true
+
 -- set tab size to 4 spaces
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
@@ -11,6 +11,6 @@ vim.opt.smartindent = true
 
 vim.opt.wrap = false
  
-vim.opt.incsearch = true -- incremental search
- 
+vim.opt.incsearch = true
+
 vim.opt.termguicolors = true
